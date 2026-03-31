@@ -9,4 +9,4 @@
 
 module load R
 cd ~/trees_for_cluster
-Rscript run_chunk.R 100 Mar26_res
+Rscript run_chunk.R 100 Mar30_res
